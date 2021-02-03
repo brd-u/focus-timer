@@ -1,0 +1,16 @@
+header p {
+  width: 100%;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  margin: auto;
+}
+
+header {
+  background: var(--color-second-dark);
+  font-size: 4rem;
+  padding: 1rem 0;
+  min-height: 20vh;
+  margin: auto;
+  padding: auto;
+  border-bottom: 1px solid var(--color-primary);
+}
